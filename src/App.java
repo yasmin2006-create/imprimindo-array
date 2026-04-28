@@ -1,3 +1,5 @@
+// YASMIN LOUISE FONTES GUIMARAES
+//1261935138
 public class App {
 public static void imprimirArray (int [] array) {
     for (int i = 0; i < array.length; i++) {
